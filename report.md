@@ -65,3 +65,5 @@
 
 ![alt](scrin/15.jpg)
 
+**16. Видалення тегу oops**
+![alt](scrin/16.jpg)
